@@ -1,0 +1,16 @@
+
+
+.header {
+    width: 100%;
+    font-size: 2rem; 
+    color: #f71616;
+    margin-bottom: 10px;
+}
+
+.title{
+ text-align: center;
+}
+
+.scores {
+   text-align: right;
+}
