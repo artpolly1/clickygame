@@ -13,7 +13,6 @@
     overflow: hidden;
     background: #fff;
     border: 5px solid #f71616;
-    border-radius: 1.5rem;
 }
 .card > .img-container >img {
     width: 100%;
